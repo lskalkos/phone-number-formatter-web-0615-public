@@ -1,5 +1,5 @@
 # Download this file:
-# https://gist.github.com/scottcreynolds/ac1b5c8d96de0c91bf7c
+# https://gist.github.com/scottcreynolds/ac1b5c8d96de0c91bf7c/download
 
 # Run it from your terminal with: 
 # ruby ruby_phone_format.rb
