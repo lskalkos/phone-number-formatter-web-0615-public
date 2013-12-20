@@ -1,10 +1,3 @@
-# Download this file:
-# https://gist.github.com/scottcreynolds/ac1b5c8d96de0c91bf7c/download
-
-# Run it from your terminal with: 
-# ruby ruby_phone_format.rb
-# (Just make sure you are in the right directory)
-
 # ======================================
 # Ignore All This Code
 # ======================================
