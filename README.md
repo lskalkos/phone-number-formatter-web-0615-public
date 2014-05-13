@@ -1,6 +1,7 @@
 ---
   tags: todo, string manipulation, methods
   languages: ruby
+resources: 1
 ---
 
 # Phone Number Formatter
@@ -16,3 +17,5 @@ In this todo you'll be formatting an ugly phone number input like this: 51945570
 1. Define a method named normalize_phone_number that takes one
 string argument and returns a string in the format
 (XXX) XXX-XXXX if possible, and just returns the input string if not
+## Resources
+* [Programming Ruby 1.9](http://books.flatironschool.com/books/11) - [Changing Strings with Patterns](http://books.flatironschool.com/books/11), page 110
