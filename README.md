@@ -19,4 +19,4 @@ string argument and returns a string in the format
 (XXX) XXX-XXXX if possible, and just returns the input string if not
 
 ## Resources
-* [Programming Ruby 1.9](http://books.flatironschool.com/books/11) - [Changing Strings with Patterns](http://books.flatironschool.com/books/11), page 110
+* [Programming Ruby 1.9](http://books.flatironschool.com/books/11?page=110) - [Changing Strings with Patterns](http://books.flatironschool.com/books/11?page=110), page 110
