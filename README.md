@@ -20,3 +20,4 @@ string argument and returns a string in the format
 
 ## Resources
 * [Programming Ruby 1.9](http://books.flatironschool.com/books/11?page=110) - [Changing Strings with Patterns](http://books.flatironschool.com/books/11?page=110), page 110
+* [Rubular](http://rubular.com/) This has a glossary of regex at the bottom and a repl to test your expressions at the top.
